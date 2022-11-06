@@ -15,7 +15,7 @@
 			<link>https://qqroo.github.io/order</link>
 			<author>Администратор</author>
 			<category>Новости сайта</category>
-			<turbo:content><![CDATA[<header>	<h1>Document</h1></header><p><img src="https://qqroo.github.io/image/burger.png"></p>]]></turbo:content>
+          <turbo:content><![CDATA[<header>	<h1>Document</h1></header><p><a href="#" class="noviewer"><img src="https://qqroo.github.io/image/burger.png"></a></p>]]></turbo:content>
 			<pubDate>Sat, 21 May 2022 14:27:58 +0300</pubDate>
 		</item>
 	</channel>
