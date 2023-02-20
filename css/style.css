@@ -21,12 +21,22 @@ textarea {
     width: 100%}
 button {
     background: #008cba;
-    border: none;
+    border: 2px solid transparent;
     border-radius: 3px;
     color: #fff;
     font-size: 16px;
     padding: 10px 20px;
     transition: background-color .2s;
+    cursor: pointer;
+}
+button:hover {
+    background: transparent;
+    color: #222;
+    border-color: #008cba;   
+}
+button:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
 }
 button:disabled {
     background: gray;
