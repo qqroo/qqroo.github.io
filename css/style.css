@@ -130,6 +130,32 @@ body.dark-theme {
     background: #111;
     color: #fff;
 }
+button.dark-theme {
+    background: #FFC300;
+    border: 2px solid transparent;
+    border-radius: 2px;
+    color: #000;
+    font-size: 16px;
+    padding: 10px 20px;
+    transition: background-color .1s;
+    cursor: pointer;
+}
+button.dark-theme:hover {
+    background: transparent;
+    color: #fff;
+    border-color: #FFC300;   
+}
+button.dark-theme:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #F4CD96;
+}
+button.dark-theme:disabled {
+    background: #3E3E3E;
+    color: #fff;
+    border: 2px solid #D8D8D8;
+    cursor: not-allowed;
+}
+
 .switch .slider, .switch input:checked+.slider:before {
     background: #222;
 }
