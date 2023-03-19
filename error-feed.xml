@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="https://gdrive-arena.ru/rss-style.css" ?><rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" version="2.0">
+    <channel>
+        <title>Название RSS-канала</title>
+        <link>https://qqroo.github.io/</link>
+        <description>Краткое описание RSS-канала</description>
+        <item turbo="true">
+            <turbo:extendedHtml>true</turbo:extendedHtml>
+            <link>https://qqroo.github.io/pages/WebmasterLinkTransform.html</link>
+            <author>Иван Иванов</author>
+            <category>Технологии</category>
+            <pubDate>Sun, 29 Sep 2002 19:59:01 +0300</pubDate>
+            <turbo:content>
+                <![CDATA[
+                    <header>
+                        <h1>Ресторан «Полезный завтрак»</h1>
+                        <h2>Вкусно и полезно</h2>
+                        <figure>
+                            <img src="https://avatars.mds.yandex.net/get-sbs-sd/403988/e6f459c3-8ada-44bf-a6c9-dbceb60f3757/orig">
+                        </figure>
+                    </header>
+                    <p>Как хорошо начать день? Вкусно и полезно позавтракать!</p>
+                    <p>Приходите к нам на завтрак. Фотографии наших блюд ищите <a href="#">на нашем сайте</a>.</p>
+                    <h2>Меню</h2>
+                    <figure>
+                        <img src="https://avatars.mds.yandex.net/get-sbs-sd/369181/49e3683c-ef58-4067-91f9-786222aa0e65/orig">
+                        <figcaption>Омлет с травами</figcaption>
+                    </figure> 
+                    <p>В нашем меню всегда есть свежие, вкусные и полезные блюда.</p>
+                    <p>Убедитесь в этом сами.</p>
+                    <button formaction="tel:+7(123)456-78-90" data-background-color="#5B97B0" data-color="white" data-primary="true">Заказать столик</button>
+                    <p>Наш адрес: <a href="#">Nullam dolor massa, porta a nulla in, ultricies vehicula arcu.</a></p>
+                    <p>Фотографии — http://unsplash.com</p>
+                ]]>
+            </turbo:content>
+        </item>
+    </channel>
+</rss>
