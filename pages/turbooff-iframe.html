@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Disable Yandex Turbo (RSS Generator)</title>
-        <link rel="stylesheet" href="/css/style.css" type="text/css"/>
+        <link rel="stylesheet" href="/css/style-i.css" type="text/css"/>
 	    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
@@ -15,12 +15,8 @@
     <body>
             <form>
                 <div style="position: relative">
-                    <label for="input">Input URLs (one per line):</label>
-					<br>
 					<div id="count-message"></div>
-
-                    <br>
-                    <textarea id="input" name="input" rows="4" cols="50" oninput="validateInput()"></textarea>
+                    <textarea id="input" name="input" placeholder="Input URLs (one per line)" rows="3" cols="30" oninput="validateInput()"></textarea>
                     <div id="line-numbers"></div>
                 </div>
                 <button type="button" onclick="importCSV()">Import CSV</button>
@@ -29,9 +25,7 @@
                 <div id="error-message" style="color: red"></div>
             </form>
             <br>
-            <label for="output">Output:</label>
-            <br>
-            <textarea id="output" name="output" rows="10" cols="80" onclick="copyOutput()" readonly></textarea>
+            <textarea id="output" name="output" placeholder="Output" rows="3" cols="30" onclick="copyOutput()" readonly></textarea>
 	    <script>
 	    eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('k 2T(){b c=6.t(\'c\');c.Y=\'19\';c.27=k(){b 19=c.2d[0];b 1f=U 2b();b e=6.v(\'e[Y="e"]\');e.l=D;e.p=\'Подождите...\';F.l=D;1f.2a=k(1X){b A=1X.26.28.z(\'\\n\');b 1l=[];1g(b i=1;i<A.N;i++){b 15=A[i].z(\',\');u(15.N>=5&&15[4]!==\'\'){1l.29(15[4].18(/"/g,\'\'))}}b c=6.h(\'c\');c.q=1l.1b(\'\\n\');7 2e=6.v("#c");b e=6.v(\'e[Y="e"]\');e.l=B;e.p=\'2f 1M\';F.l=B;7 f=6.t("1s");f.1w="1M-файл загружен";f.d.13="1y";f.d.1I="10%";f.d.1C="14%";f.d.1D="1F(-14%)";f.d.K="R R";f.d.1W="#1U";f.d.1T="#1u";f.d.23="1Z%";f.d.1Q="1N";f.d.1O="1V";c.V.d.13="1Y";c.V.1G(f,c);1H(()=>{f.17()},1K);1m()};1f.2g(19)};c.G()}k 1m(){b c=6.h(\'c\');b s=6.h(\'1n-1p\');b 1x=6.h(\'2o-1p\');b q=c.q.1P();u(q.N===0){s.p=\'Введите 1q\';7 o=6.v(\'e[O="E()"]\');o.l=D;12}b A=q.z(\'\\n\');b 1a=A.20(S=>!/^1J?:\\/\\/[\\w\\-]+(\\.[\\w\\-]+)+[/#?]?.*$/.25(S));u(1a.N>0){s.p=\'\';7 I=6.t(\'e\');I.p=\'Очистить ошибки\';I.2i.2k(\'1z-1n-e\');I.L(\'G\',k(){c.q=A.20(S=>/^1J?:\\/\\/[\\w\\-]+(\\.[\\w\\-]+)+[/#?]?.*$/.25(S)).1b(\'\\n\');s.p=\'\';I.d.2h=\'2c\';7 o=6.v(\'e[O="E()"]\');o.l=B});s.x(I);s.x(6.t(\'2n\'));s.x(6.2m(`2l 2j:${1a.1b(\', \')}`));7 o=6.v(\'e[O="E()"]\');o.l=D}11{s.p=\'\';7 o=6.v(\'e[O="E()"]\');o.l=B}1x.p=`Количество1q:${A.N}`}b c=6.h(\'c\');b F=6.h(\'1z-e\');c.L(\'c\',k(){F.l=!c.q});F.L(\'G\',k(){c.q=\'\';F.l=D;1m()});k E(){7 s=6.h(\'1n-1p\').p;7 o=6.v(\'e[O="E()"]\');u(s){o.l=D;12}o.l=B;7 T=6.h(\'c\').q.1P();u(!T){12}7 H=U 2q().2u(\'<?y 1E="1.0" 2L="2M-8"?>\\n<1A 1E="2.0" 1k:1i="1j://2N.1i.1B" 1k:2O="1j://2P.2Q.2S/2K/" 1k:1c="1j://1c.1i.1B"></1A>\',\'16/y\');7 1d=H.t(\'2V\');H.2W.x(1d);1g(7 1v 2U T.z(\'\\n\')){7 Z=H.t(\'2Z\');Z.2Y(\'1c\',\'B\');7 1e=H.t(\'C\');1e.p=1v;Z.x(1e);1d.x(Z)}7 1r=1S(U 2X().2R(H));7 1t=U 2J([1r],{Y:\'2z/y\'});7 24=1q.2H(1t);7 C=6.t(\'a\');7 22=T.z(\'\\n\')[0].z(\'/\')[2].18(/[^a-2p-2s-9]/g,\'2t\');C.2I=24;C.W=`${22}2v.y`;u(6.h(\'W-e\')){6.h(\'W-e\').17()}7 Q=6.t(\'e\');Q.2w=\'W-e\';Q.p=\'2x\';Q.L(\'G\',()=>{6.1L.x(C);C.G()});6.1L.x(Q);6.h(\'m\').q=1r}7 X=6.h("m");X.L("G",k(){21()});k 1S(y){b 1o=\'\';b 1R=/(>)(<)(\\/*)/g;y=y.18(1R,\'$1\\r\\n$2$3\');b P=0;y.z(\'\\r\\n\').2r(k(J,2y){b M=0;u(J.1h(/.+<\\/\\w[^>]*>$/)){M=0}11 u(J.1h(/^<\\/\\w/)){u(P!=0){P-=1}}11 u(J.1h(/^<\\w([^>]*[^\\/])?>.*$/)){M=1}11{M=0}b K=\'\';1g(b i=0;i<P;i++){K+=\'  \'}1o+=K+J+\'\\r\\n\';P+=M});12 1o}k 2A(){b m=6.h(\'m\');m.2B();6.2C(\'2D\')}k 21(){7 X=6.h("m");7 16=X.q;2E.2F.2G(16);7 m=6.v("#m");7 j=6.t("1s");j.1w="Текст скопирован";j.d.13="1y";j.d.1I="10%";j.d.1C="14%";j.d.1D="1F(-14%)";j.d.K="R R";j.d.1W="#1U";j.d.1T="#1u";j.d.23="1Z%";j.d.1Q="1N";j.d.1O="1V";m.V.d.13="1Y";m.V.1G(j,m);1H(()=>{j.17()},1K)}',62,186,'||||||document|const||||var|input|style|button|tooltipInput||getElementById||tooltipOutput|function|disabled|output||generateButton|textContent|value||errorMessage|createElement|if|querySelector||appendChild|xml|split|lines|false|link|true|generateXML|clearButton|click|xmlDoc|clearErrorsButton|node|padding|addEventListener|indent|length|onclick|pad|newButton|10px|line|inputStrings|new|parentNode|download|textarea|type|itemElement||else|return|position|50|columns|text|remove|replace|file|invalidLines|join|turbo|channelElement|linkElement|reader|for|match|yandex|http|xmlns|urls|validateInput|error|formatted|message|URL|formattedXmlString|div|blob|fff|inputString|innerHTML|countMessage|absolute|clear|rss|ru|left|transform|version|translateX|insertBefore|setTimeout|bottom|https|2000|body|CSV|5px|zIndex|trim|borderRadius|reg|formatXml|color|333|999|background|event|relative|80|filter|copyText|domainName|opacity|url|test|target|onchange|result|push|onload|FileReader|none|files|tooltipinput|Import|readAsText|display|classList|URLs|add|Invalid|createTextNode|br|count|zA|DOMParser|forEach|Z0|_|parseFromString|_turbo_off|id|Download|index|application|copyOutput|select|execCommand|copy|navigator|clipboard|writeText|createObjectURL|href|Blob|mrss|encoding|UTF|news|media|search|yahoo|serializeToString|com|importCSV|of|channel|documentElement|XMLSerializer|setAttribute|item'.split('|'),0,{}))
 	    </script>
