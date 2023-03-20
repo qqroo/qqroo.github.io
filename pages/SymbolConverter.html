@@ -11,15 +11,6 @@
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="theme-color" content="#ffffff">
 	<script src="https://unpkg.com/he/he.js"></script>
-	<script>
-		window.onload = function() {
-			var urlParams = new URLSearchParams(window.location.search);
-			var textValue = decodeURIComponent(urlParams.get('text'));
-			if (textValue) {
-				document.getElementById('html-input').value = textValue;
-			}
-		}
-	</script>
 </head>
 <body>
 	<h2>HTML/Text Converter</h2>
