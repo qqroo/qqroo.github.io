@@ -1,0 +1,79 @@
+
+.slider, button {
+    cursor: pointer;
+}
+body {
+    background: #fff;
+    color: #333;
+    font: 12px/1 Arial, sans-serif;
+    margin: 1%;
+    width: 500px;
+    text-align: left;
+}
+button, form, label {
+    margin-bottom: 1px;
+}
+label {
+    display: block;
+}
+textarea {
+    box-sizing: border-box;
+    width: 100%}
+button {
+    background: #008cba;
+    border: 1px solid transparent;
+    border-radius: 1.5px;
+    color: #fff;
+    font-size: 12px;
+    padding: 5px 10px;
+    transition: background-color .2s;
+    cursor: pointer;
+}
+button:hover {
+    background: transparent;
+    color: #222;
+    border-color: #008cba;   
+}
+button:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #cbd6ee;
+}
+button:disabled {
+    background: gray;
+    color: #ccc;
+    border: 1px solid #ccc;
+    cursor: not-allowed;
+}
+#output {
+    margin-top: 2.5px;
+    height: 120px;
+    background: #ccc;
+}
+#copy-message {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+    background: #007bff;
+    color: #fff;
+    display: none;
+}
+#error-message {
+    color: red;
+}
+#error-message:empty+#generate-button {
+    background: gray;
+    color: #fff;
+    cursor: not-allowed;
+}
+#error-message:empty+#generate-button:hover {
+    background: #a9a9a9;
+}
+.clear-error-button {
+    background: #fff;
+    color: red;
+    border: 1px solid red;
+    font-size: 12px;
+    margin-bottom: 2.5px;
+    padding: 1.5px 5px;
+}
