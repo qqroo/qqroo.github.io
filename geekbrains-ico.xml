@@ -1,0 +1,24 @@
+<rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" version="2.0">
+    <channel>
+        <title>Название RSS-канала</title>
+        <link>https://qqroo.github.io/</link>
+        <description>Краткое описание RSS-канала</description>
+        <item turbo="true">
+            <turbo:extendedHtml>true</turbo:extendedHtml>
+            <link>https://qqroo.github.io/test3.html</link>
+            <author>Проверка PNG</author>
+            <category>Технологии</category>
+            <pubDate>Sun, 29 Sep 2022 23:59:01 +0300</pubDate>
+            <turbo:content>
+                <![CDATA[
+                    <header>
+                        <h1>geekbrains-ico.png/h1>
+                    </header>
+                        <figure>
+                            <img src="https://qqroo.github.io/image/geekbrains-ico.png">
+                        </figure>
+                ]]>
+            </turbo:content>
+        </item>
+    </channel>
+</rss>
