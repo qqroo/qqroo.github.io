@@ -627,7 +627,7 @@
             </pubDate>
             <turbo:content>
                 <![CDATA[ <header>
-     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/avl-36bir-v.jpg" /> </figure>
+     <figure> <img src="/assets/2023/10-23/11-10-23/avl-36bir-v.jpg" /> </figure>
  </header>
  <div class="details-row details-briefproperties">
      <div class="details-param-name">Фокусное расстояние: 3,6 мм</div>
