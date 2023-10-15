@@ -1,23 +1,2779 @@
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" version="2.0">
     <channel>
-        <title>Название RSS-канала</title>
-        <link>https://qqroo.github.io/</link>
-        <description>Краткое описание RSS-канала</description>
+        <title>
+            «Пилот» - торгово-монтажная компания
+        </title>
+        <link>
+            https://www.tmk-pilot.ru/
+        </link>
+        <description>
+            ТМК «Пилот» - монтаж видеонаблюдения, домофонов, пожарной сигнализаций, АТС, контроля доступа, молниезащиты, заземления.
+        </description>
+        <language>
+            ru
+        </language>
         <item turbo="true">
-            <turbo:extendedHtml>true</turbo:extendedHtml>
-            <link>https://qqroo.github.io/apng-a.html</link>
-            <author>Проверка PNG</author>
-            <category>Технологии</category>
-            <pubDate>Sun, 29 Sep 2022 23:59:01 +0300</pubDate>
+            <link>
+                https://www.tmk-pilot.ru/av-m32pk.html
+            </link>
+            <title>
+                AV-M32PK
+            </title>
+            <pubDate>
+                Thu, 12 Oct 2023 21:11:00 +0300
+            </pubDate>
             <turbo:content>
-                <![CDATA[
-                    <header>
-                        <h1>apng-a</h1>
-                    </header>
-                        <figure>
-                            <img src="https://qqroo.github.io/image/apng-a1.png">
-                        </figure>
-                ]]>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/12-10-23/10819-middle.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диагональ: 32" (80.3 см)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Тип дисплея: TFT</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат матрицы (соотношение сторон): 16:9</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение экрана: 3840 x 2160 (4K UHD)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Видеовходы: HDMI 2.0 3шт, DisplayPort 1шт</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Видеовыходы: DisplayPort 1шт</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление VESA: 100x100мм</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/monitoryi/
+            </link>
+            <title>
+                Мониторы
+            </title>
+            <pubDate>
+                Thu, 12 Oct 2023 21:10:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/12-10-23/10819-middle.jpg" /> </figure>
+ </header>
+ <p>Выбор монитора для системы видеонаблюдения зависит от ваших потребностей и бюджета. Вот некоторые ключевые характеристики, которые следует учесть при выборе:</p>
+ <ol>
+     <li>
+         <p>Размер экрана: Размер экрана должен быть достаточным для удобного просмотра видео с камер. Если у вас большая система видеонаблюдения, то вам может потребоваться несколько мониторов разных размеров.</p>
+     </li>
+     <li>
+         <p>Разрешение: Разрешение монитора должно соответствовать разрешению видеосигнала, поступающего от камер. Чем выше разрешение, тем лучше качество изображения.</p>
+     </li>
+     <li>
+         <p>Яркость и контрастность: Эти параметры определяют, насколько хорошо изображение будет видно в различных условиях освещения. Чем выше яркость и контрастность, тем лучше.</p>
+     </li>
+     <li>
+         <p>Угол обзора: Угол обзора монитора определяет, насколько хорошо будет видно изображение с разных углов. Чем больше угол обзора, тем лучше.</p>
+     </li>
+     <li>
+         <p>Входы и выходы: Убедитесь, что монитор имеет достаточное количество входов для подключения камер и других устройств, а также выходов для подключения к системе видеонаблюдения.</p>
+     </li>
+     <li>
+         <p>Монтаж: Если вы планируете устанавливать монитор в стойку или на стену, убедитесь, что он имеет соответствующие крепления.</p>
+     </li>
+ </ol>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ac-ms1.html
+            </link>
+            <title>
+                AC-MS1
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:38:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/ac-ms1.jpg" /> </figure>
+ </header>
+ <p>Предназначен для имитации системы видеонаблюдения в случае, когда нет необходимости использовать действующую систему.</p>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ac-md1.html
+            </link>
+            <title>
+                AC-MD1
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:37:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/ac-md1.jpg" /> </figure>
+ </header>
+ <p><span>Предназначен для имитации системы видеонаблюдения в случае, когда нет необходимости использовать действующую систему.</span></p>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-tg5.html
+            </link>
+            <title>
+                AV-TG5
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:35:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-tg5.jpg" /> </figure>
+ </header>
+ <p>Гальванический изолятор одноканальный пассивный. Применяется для подавления помех при использовании устройств передачи HD видеосигнала по витой паре.</p>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-t5sc.html
+            </link>
+            <title>
+                AV-T5SC
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:33:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-t5sc.jpg" /> </figure>
+ </header>
+ <p>Пассивный приемопередатчик AHD/TVI/CVI по витой паре UTP Cat 5/5E/6. (2 шт. в комплекте)</p>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-t3tc.html
+            </link>
+            <title>
+                AV-T3TC
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:32:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-t3tc.jpg" /> </figure>
+ </header>
+ <p>Пассивный приемопередатчик AHD/TVI/CVI по витой паре UTP Cat 5/5E/6. (2 шт. в комплекте)</p>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bb9f1.html
+            </link>
+            <title>
+                AV-BB9F
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:30:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bb9f1.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span><span>Цвет: <span><span><span><span><span><span><span><span>белый</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Размеры: Ø 120 х 41 мм</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Материал: </span></span></span></span></span></span></span>металл</li>
+     <li>Вес 300гр.</li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bwd-3f.html
+            </link>
+            <title>
+                AV-BWD 3F
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:28:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bwd-3f.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span><span>Цвет: белый</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Размеры: 11</span></span></span></span></span></span></span><span><span><span><span><span><span><span>0(ш) х163(д) х 120(в) мм</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Материал: пластмасса</span></span></span></span></span></span></span></span>.</span></span></span></span></span></span></span></li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bb4f.html
+            </link>
+            <title>
+                AV-BB4F
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:27:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bb4f.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span><span>Цвет: белый</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Размеры: 137.4(ш) х 138.5(д) х 65.5(в) мм. </span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Материал: пластик</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span><span>Вес 660 гр.</span></span></span></span></span></span></span></span></li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bb7f.html
+            </link>
+            <title>
+                AV-BB7F
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:26:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bb7f.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span><span>Цвет: <span><span><span><span><span><span><span><span>белый</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span><span>Размеры: <span><span><span><span><span><span><span><span>112,7(ш) х 112,7(д) х 49,4(в) мм</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Материал: </span></span></span></span></span></span></span>пластик</li>
+     <li>Вес 200гр.</li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bps2.html
+            </link>
+            <title>
+                AV-BPS2
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:25:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bps2.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span><span>Цвет: белый</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Материал: металл</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span><span>Вес: 1,1 кг</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Габаритные размеры (основание): 131(ш) х 46(д) х 170(в) мм</span></span></span></span></span></span></span></li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bb3f.html
+            </link>
+            <title>
+                AV-BB3F
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:13:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bb3f.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span><span>Цвет: белый</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Размеры: Ø 138 х 54 мм. </span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Материал: металл</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span><span>Вес 660 гр</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span><span>2 герметичных ввода для кабеля разного диаметра</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span><span>Крепление камеры на кронштейн винтами (4шт в комплекте)</span></span></span></span></span></span></span></span></li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bb9f.html
+            </link>
+            <title>
+                AV-BB9F
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:12:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bb9f.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span><span>Цвет: серый</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Размеры: Ø 120 х 41 мм</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Материал: </span></span></span></span></span></span></span>металл</li>
+     <li>Вес 220гр.</li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bb2f.html
+            </link>
+            <title>
+                AV-BB2F
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:11:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bb2f.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span><span>Цвет: белый</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Размеры: Ø 101 х 52 мм. </span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Материал: металл</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span><span>Вес 450 гр</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span><span>2 герметичных ввода для кабеля разного диаметра</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span><span>Крепление камеры на кронштейн винтами (4шт в комплекте)</span></span></span></span></span></span></span></span></li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bb1f.html
+            </link>
+            <title>
+                AV-BB1F
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:06:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bb1f.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span><span>Цвет: белый</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Размеры: 116(ш) х 116(д) х 49,4(в) мм</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Материал: пластик</span></span></span></span></span></span></span></li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bps1.html
+            </link>
+            <title>
+                AV-BPS1
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:05:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bps1.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span><span>Цвет: белый</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Материал: металл</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span><span>Вес: 1,1 кг</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Габаритные размеры (основание): 135(ш) х 43(д) х 180(в) мм</span></span></span></span></span></span></span></li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bcr1.html
+            </link>
+            <title>
+                AV-BCR1
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:03:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bcr1.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span>Цвет: белый</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span>Материал: металл</span></span></span></span></span></span></li>
+     <li>Вес 2,2 кг</li>
+     <li>Габаритные размеры: 215(ш)x127(д)x180(в) мм</li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bwd-2f.html
+            </link>
+            <title>
+                AV-BWD 2F
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 22:01:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bwd-2f.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span><span>Цвет: белый</span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Размеры: </span></span></span></span></span></span></span><span><span><span><span><span><span><span>245(ш) х160(д) х 163(в) мм</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Вес: 1,1 кг</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Материал: металл</span></span></span></span></span></span></span></li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-bwd-1f.html
+            </link>
+            <title>
+                AV-BWD 1F
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 21:56:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bwd-1f.jpg" /> </figure>
+ </header>
+ <ul>
+     <li><span><span><span><span><span><span><span><span>Цвет: белый </span></span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Размеры: 173(ш) х 111(д) х 114(в) мм</span></span></span></span></span></span></span></li>
+     <li><span><span><span><span><span><span><span>Вес: 540 гр</span></span></span></span></span></span></span>.</li>
+     <li><span><span><span><span><span><span><span>Материал: металл</span></span></span></span></span></span></span>.</li>
+ </ul>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/kronshtejnyi/
+            </link>
+            <title>
+                Кронштейны
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 21:53:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-bwd-1f.jpg" /> </figure>
+ </header>
+ <div class="message message_theme_dark svelte-1lnjgdy message_fullscreen">
+     <div class="message__text svelte-1lnjgdy">
+         <div class="markdown-text">
+             <p>Кронштейны для камер видеонаблюдения используются для монтажа камер на стены, потолки, столбы и другие поверхности. Они обеспечивают надежное крепление камеры и позволяют легко регулировать угол наклона и поворота камеры для оптимального обзора. Кронштейны могут быть изготовлены из различных материалов, таких как металл, пластик или дерево, и имеют различные формы и размеры для разных типов камер. При выборе кронштейна для камеры видеонаблюдения необходимо учитывать вес камеры, материал и место установки.</p>
+         </div>
+     </div>
+ </div>
+ <div class="new-chat__suggests-wrapper svelte-1mjt3m"> </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-p85.html
+            </link>
+            <title>
+                AV-P85
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 21:50:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-p85.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество камер: до 128</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Интерфейсы управления: RS-485</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Протоколы управления: Pelco D/P</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Расстояние передачи данных: до 1200 м</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Джойстик: 3D управление: вверх, вниз, влево, вправо, зум</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/av-pn95.html
+            </link>
+            <title>
+                AV-PN95
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 21:48:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/av-pn95.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество камер: до 255</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Интерфейсы управления: Ethernet 10/100 Мбит/с, 1шт USB 2.0</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Джойстик: 3D управление: вверх, вниз, влево, вправо, зум</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-2m36bir.html
+            </link>
+            <title>
+                AVL-5M28BIR
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 21:46:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/avl-5m28bir.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 2,8 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.7"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-3m28bir.html
+            </link>
+            <title>
+                AVL-3M28BIR
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 21:39:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/avl-3m28bir.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 2,8 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.7"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-08bir-v.html
+            </link>
+            <title>
+                AVL-08BIR-V
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 21:35:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/avl-08bir-v.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 8 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.7"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-36bir-v.html
+            </link>
+            <title>
+                AVL-36BIR-V
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 21:33:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/avl-36bir-v.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 3,6 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.7"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-3m16bir-l.html
+            </link>
+            <title>
+                AVL-3M16BIR-L
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 21:32:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/avl-3m16bir-l.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 16 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.5"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-3m12bir-l1.html
+            </link>
+            <title>
+                AVL-3M12BIR-L
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 21:30:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/avl-3m12bir-l.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 12 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.5"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-3m08bir-l.html
+            </link>
+            <title>
+                AVL-3M08BIR-L
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 21:28:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/avl-3m08bir-l.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 8 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.5"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-3m06bir-l.html
+            </link>
+            <title>
+                AVL-3M06BIR-L
+            </title>
+            <pubDate>
+                Wed, 11 Oct 2023 21:25:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/11-10-23/avl-3m06bir-l.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 6 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.5"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-3m12bir-l.html
+            </link>
+            <title>
+                AVL-3M12BIR-L
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:45:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/avl-3m12bir-l.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 12 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.5"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-5m12bir.html
+            </link>
+            <title>
+                AVL-5M12BIR
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:43:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/avl-5m12bir.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 12 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.7"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-5m08bir.html
+            </link>
+            <title>
+                AVL-5M08BIR
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:32:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/avl-5m08bir.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 8 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.7"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-5m06bir.html
+            </link>
+            <title>
+                AVL-5M06BIR
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:30:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/avl-5m06bir.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 6 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.7"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-3m06bir.html
+            </link>
+            <title>
+                AVL-3M06BIR
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:29:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/avl-3m06bir.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 6 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.7"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-5m12bir-l.html
+            </link>
+            <title>
+                AVL-5M12BIR-L
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:28:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/avl-5m12bir-l.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 12 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.5"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-5m08bir-l.html
+            </link>
+            <title>
+                AVL-5M08BIR-L
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:26:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/avl-5m08bir-l.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 8 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.7"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-5m36bir.html
+            </link>
+            <title>
+                AVL-5M36BIR
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:25:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/avl-5m36bir.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 3,6 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.7"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: M12 (board)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/obektivyi/
+            </link>
+            <title>
+                Объективы
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:21:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/avl-m2812dir.jpg" /> </figure>
+ </header>
+ <div class="category-description">Объективы для видеокамер высокого разрешения ("мегапиксельные").</div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-5m33105dir.html
+            </link>
+            <title>
+                AVL-5M33105DIR
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:18:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/avl-5m33105dir.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 3,3-10,5 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.5"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Управление автодиафрагмой (АРД): DC (DD)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: CS</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-m2812dir.html
+            </link>
+            <title>
+                AVL-M2812DIR
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:17:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/avl-m2812dir.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 2,8-12 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.7"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Управление автодиафрагмой (АРД): DC (DD)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: CS</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/avl-5m0922dir.html
+            </link>
+            <title>
+                AVL-5M0922DIR
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:15:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/avl-5m0922dir.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Фокусное расстояние: 9-22 мм</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Формат ("): 1/2.5"</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Управление автодиафрагмой (АРД): DC (DD)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Крепление: CS</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ac-h501ptz22h.html
+            </link>
+            <title>
+                AC-H501PTZ22H
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 17:05:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ac-h501ptz22h.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Разрешение: 5 Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Объектив: моторизованный 6,5-143 мм (×22) с АРД</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">ИК подсветка: 150 м, авторегулировка</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ac-h201ptz.html
+            </link>
+            <title>
+                AC-H201PTZ
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:28:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ac-h201ptz.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Разрешение: 2 Мп (1920×1080 пкс.)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Объектив: моторизованный 4,7-94 мм (×20) с АРД</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">ИК подсветка: 60 м</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ac-h201ptz22h.html
+            </link>
+            <title>
+                AC-H201PTZ22H
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:26:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ac-h201ptz22h.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Разрешение: 2 Мп (1920×1080 пкс.)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Объектив: моторизованный 6,5-143 мм (×22) с АРД</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">ИК подсветка: 150 м</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ac-h502ptz20h.html
+            </link>
+            <title>
+                AC-H502PTZ20H
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:25:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ac-h502ptz20h.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Разрешение: 5 Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Объектив: моторизованный 6,5-143 мм (×22) с АРД</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">ИК подсветка: 120 м</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ac-h201ptz20h.html
+            </link>
+            <title>
+                AC-H201PTZ20H
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:23:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ac-h201ptz20h.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Разрешение: 2 Мп (1920×1080 пкс.)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Объектив: моторизованный 4,7-94 мм (×20) с АРД, автофокусровка</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">ИК подсветка: 150 м</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ac-h201ptz18h.html
+            </link>
+            <title>
+                AC-H201PTZ18H
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:20:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ac-h201ptz18h.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Разрешение: 2 Мп (1920×1080 пкс.)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Объектив: моторизованный 4,7-84,6 мм (×18) с АРД</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">ИК подсветка: 120 м</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-ht162nx1.html
+            </link>
+            <title>
+                AR-HT162NX
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:17:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-ht162nx1.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 16</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 2</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-htv164cx.html
+            </link>
+            <title>
+                AR-HTV164CX
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:15:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-htv164cx.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 16</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп, 8Мп (4K)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 8Мп (4K)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых AHD камер: 4K (8Мп)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD-TVI, HD-CVI камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 2шт, до 10Тб каждый</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 4</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-ht166nx.html
+            </link>
+            <title>
+                AR-HT166NX
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:13:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-ht166nx.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 16</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 2шт, до 10Тб каждый</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 16</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-ht162nx.html
+            </link>
+            <title>
+                AR-HT162NX
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:12:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-ht162nx.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 16</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 16</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-htv84dx1.html
+            </link>
+            <title>
+                AR-HTV84DX
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:06:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-htv84dx1.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 8</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп, 8Мп Lite (4K-N)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 4</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-ht84nx1.html
+            </link>
+            <title>
+                AR-HT84NX
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:05:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-ht84nx1.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 8</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 4</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-ht89x1.html
+            </link>
+            <title>
+                AR-HT89X
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:03:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-ht89x1.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 8</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 1</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-ht89x.html
+            </link>
+            <title>
+                AR-HT89X
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 16:01:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-ht89x.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 8</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 1</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-htv84dx.html
+            </link>
+            <title>
+                AR-HTV84DX
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:59:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-htv84dx.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 8</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп, 8Мп Lite (4K-N)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 4</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-htv84cx.html
+            </link>
+            <title>
+                AR-HTV84CX
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:57:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-htv84cx.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 8</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп, 8Мп (4K)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 8Мп (4K)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых AHD камер: 4K (8Мп)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD-TVI, HD-CVI камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 4</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-ht84nx.html
+            </link>
+            <title>
+                AR-HT84NX
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:55:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-ht84nx.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 8</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 4</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-ht49x.html
+            </link>
+            <title>
+                AR-HT49X
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:53:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-ht49x.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 4</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 1</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-htv442cx.html
+            </link>
+            <title>
+                AR-HTV442CX
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:47:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-htv442cx.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 4</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп, 8Мп (4K)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 8Мп (4K)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых AHD камер: 4K (8Мп)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD-TVI, HD-CVI камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 4</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-htf44x.html
+            </link>
+            <title>
+                AR-HTF44X
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:41:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-htf44x.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 4</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 4</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/ar-htv44dx.html
+            </link>
+            <title>
+                AR-HTV44DX
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:35:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/ar-htv44dx.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество HD видеоканалов: 4</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт сжатия видео: H.265+, H.265, H.264</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Совместим с видеокамерами: AHD, HD-TVI, HD-CVI, XVI, IP, CVBS (аналог)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение подключаемых HD камер: 5Мп, 8Мп Lite (4K-N)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Максимальное разрешение записи IP камер: 5Мп</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Диски HDD (SATA): 1шт, до 10 Тб</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Количество аудио-каналов: 4</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/apn-sxg12p8.html
+            </link>
+            <title>
+                APN-SXG12P8
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:29:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/apn-sxg12p8.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 12</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 6 портов (100Мбит/с, RJ45, PoE+), 2 порта (1000Мбит/с, RJ45), 2 порта (1000Мбит/с, RJ45, Hi PoE), 2 слота SPF (1000Мбит/с)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), IEEE 802.3bt (до 60Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 120 Вт</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Исполнение: Всепогодное</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s18p16-300.html
+            </link>
+            <title>
+                AN-S18P16-300
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:27:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s18p16-300.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 18</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 16 портов (100Мбит/с, RJ45, PoE+), 1 порт (1000Мбит/с, RJ45), 1 Combo порт (1000Мбит/с, RJ45/SFP)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 300 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s18p16a.html
+            </link>
+            <title>
+                AN-S18P16A
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:25:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s18p16a.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 19</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 16 портов (100Мбит/с, RJ45, PoE+), 2 порта (1000Мбит/с, RJ45), 1 слот SFP (1000Мбит/с)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 250 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sg8.html
+            </link>
+            <title>
+                AN-SG8
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:24:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sg8.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 8</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 8 портов (1000Мбит/с, RJ45)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sg5.html
+            </link>
+            <title>
+                AN-SG5
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:22:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sg5.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 5</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 5 портов (1000Мбит/с, RJ45)</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sgm52p48.html
+            </link>
+            <title>
+                AN-SGM52P48
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:07:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sgm52p48.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 52</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 48 портов (1000Мбит/с, RJ45, PoE+), 4 слота SPF+ (10Гбит/с), 1 консольный порт RJ45, порт USB</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), возможно управление, режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 800 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sxg6p4a.html
+            </link>
+            <title>
+                AN-SXG6P4A
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:06:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sxg6p4a.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 6</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 4 порта (1000Мбит/с, RJ45, PoE+), 2 слота SPF (1000Мбит/с)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 120 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sxgm6p4a.html
+            </link>
+            <title>
+                AN-SXGM6P4A
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:04:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sxgm6p4a.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 6</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 4 порта (1000Мбит/с, RJ45, PoE+), 2 слота SPF (1000Мбит/с)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), возможно управление, режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 120 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sxgm10p8b.html
+            </link>
+            <title>
+                AN-SXGM10P8B
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:02:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sxgm10p8b.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 10</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 4 порта (1000Мбит/с, RJ45, Hi PoE), 4 порта (1000Мбит/с, RJ45, PoE+), 2 слота SPF (1000Мбит/с)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), IEEE 802.3bt (до 90Вт на канал), возможно управление</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 480 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sxgm14p8a.html
+            </link>
+            <title>
+                AN-SXGM14P8A
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 15:01:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sxgm14p8a.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 14</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 2 порта (1000Мбит/с, RJ45), 8 портов (1000Мбит/с, RJ45, PoE+), 4 слота SPF (1000Мбит/с)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), возможно управление, режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+                                <div id="идентификатор контейнера"></div>
+                <script>
+                    window.Ya.adfoxCode.create({
+                        ownerId: 123456,
+                        containerId: 'идентификатор контейнера',
+                        params: {
+                            pp: 'g',
+                            ps: 'cmic',
+                            p2: 'fqem'
+                        }
+                    });
+                </script>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 240 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sxg10p8b.html
+            </link>
+            <title>
+                AN-SXG10P8B
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:59:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sxg10p8b.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 10</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 4 порта (1000Мбит/с, RJ45, Hi PoE), 4 порта (1000Мбит/с, RJ45, PoE+), 2 слота SPF (1000Мбит/с)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), IEEE 802.3bt (до 90Вт на канал)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 480 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/apn-sx8p.html
+            </link>
+            <title>
+                APN-SX8P
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:53:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/apn-sx8p.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 10</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 2 порта (100Мбит/с, RJ45), 6 портов (100Мбит/с, RJ45, PoE+), 2 порта (100Мбит/с, RJ45, Hi PoE)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), IEEE 802.3bt (до 60Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 115 Вт</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Исполнение: Всепогодное</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-pe42.html
+            </link>
+            <title>
+                AN-PE42
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:51:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-pe42.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 6</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 2 порта (100Мбит/с, RJ45), 3 порта (100Мбит/с, RJ45, PoE+), 1 порт (100Мбит/с, RJ45, Hi PoE)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), IEEE 802.3bt (до 60Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 60 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s10p8a.html
+            </link>
+            <title>
+                AN-S10P8A
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:49:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s10p8a.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 10</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 2 порта (100Мбит/с, RJ45), 8 портов (100Мбит/с, RJ45, PoE+)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 120 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sgm10p8a.html
+            </link>
+            <title>
+                AN-SGM10P8A
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:48:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sgm10p8a.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 10</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 8 портов (1000Мбит/с, RJ45, PoE+), 2 слота SPF (1000Мбит/с), 1 консольный порт RJ45</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), возможно управление, режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 120 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sgm20p16a.html
+            </link>
+            <title>
+                AN-SGM20P16A
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:46:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sgm20p16a.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 20</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 16 портов (1000Мбит/с, RJ45, PoE+), 4 Combo порта (1000Мбит/с, RJ45/SFP), 1 консольный порт RJ45</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), возможно управление, режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 300 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sm28p24.html
+            </link>
+            <title>
+                AN-SM28P24
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:44:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sm28p24.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 28</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 24 порта (1000Мбит/с, RJ45, PoE+), 4 Combo порта (1000Мбит/с, RJ45/SFP), 1 консольный порт RJ45</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), возможно управление, режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 400 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sx5p4.html
+            </link>
+            <title>
+                AN-SX5P4
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:42:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sx5p4.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 5</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 1 порт (100Мбит/с, RJ45), 4 порта (100Мбит/с, RJ45, PoE+)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 120 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sx6p4a.html
+            </link>
+            <title>
+                AN-SX6P4A
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:39:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sx6p4a.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 6</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 2 порта (100Мбит/с, RJ45), 3 порта (100Мбит/с, RJ45, PoE+), 1 порт (100Мбит/с, RJ45, Hi PoE)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), IEEE 802.3bt (до 90Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 180 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sx10p8a.html
+            </link>
+            <title>
+                AN-SX10P8A
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:38:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sx10p8a.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 10</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 8 портов (100Мбит/с, RJ45, PoE+), 1 порт (1000Мбит/с, RJ45), 1 слот SFP (1000Мбит/с)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 240 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sxg10p8a.html
+            </link>
+            <title>
+                AN-SXG10P8A
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:36:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sxg10p8a.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 10</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 8 портов (1000Мбит/с, RJ45, PoE+), 2 слота SPF (1000Мбит/с)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 240 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sxgm10p8a.html
+            </link>
+            <title>
+                AN-SXGM10P8A
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:34:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sxgm10p8a.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 10</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 8 портов (1000Мбит/с, RJ45, PoE+), 2 слота SPF (1000Мбит/с)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), возможно управление</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 240 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sgm10p8m-12.html
+            </link>
+            <title>
+                AN-SGM10P8M - 12
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:32:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sgm10p8m-12.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 12</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 8 портов (1000Мбит/с, RJ45, PoE+), 4 Combo порта (1000Мбит/с, RJ45/SFP), 1 консольный порт RJ45</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 150 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s26p24-400.html
+            </link>
+            <title>
+                AN-S26P24-400
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:14:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s26p24-400.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 26</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 22 порта (100Мбит/с, RJ45, PoE+), 2 порта (100Мбит/с, RJ45, Hi PoE), 2 Combo порта (1000Мбит/с, RJ45/SFP)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3at (до 30Вт на канал), IEEE 802.3bt (до 60Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 400 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s26p24-250.html
+            </link>
+            <title>
+                AN-S26P24-250
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:12:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s26p24-250.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 26</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 22 порта (100Мбит/с, RJ45, PoE+), 2 порта (100Мбит/с, RJ45, Hi PoE), 2 Combo порта (1000Мбит/с, RJ45/SFP)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3at (до 30Вт на канал), IEEE 802.3bt (до 60Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 250 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s26p24a.html
+            </link>
+            <title>
+                AN-S26P24A
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:09:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s26p24a.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 26</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 24 порта (100Мбит/с, RJ45, PoE+), 2 порта (1000Мбит/с, RJ45)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 300 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-sgm28p24-400.html
+            </link>
+            <title>
+                AN-SGM28P24-400
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:06:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-sgm28p24-400.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 28</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 24 порта (1000Мбит/с, RJ45, PoE+), 4 Combo порта (1000Мбит/с, RJ45/SFP), 1 консольный порт RJ45</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), возможно управление, режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 400 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s10p8ga.html
+            </link>
+            <title>
+                AN-S10P8GA
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:03:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s10p8ga.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 10</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 8 портов (100Мбит/с, RJ45, PoE+), 2 порта (1000Мбит/с, RJ45)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 120 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s6p4-65.html
+            </link>
+            <title>
+                AN-S6P4-65
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 14:01:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s6p4-65.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 6</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 2 порта (100Мбит/с, RJ45), 4 порта (100Мбит/с, RJ45, PoE+)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 65 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s18p16-200.html
+            </link>
+            <title>
+                AN-S18P16-200
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 13:59:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s18p16-200.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 18</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 14 портов (100Мбит/с, RJ45, PoE+), 2 порта (100Мбит/с, RJ45, Hi PoE), 1 порт (1000Мбит/с, RJ45), 1 Combo порт (1000Мбит/с, RJ45/SFP)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), IEEE 802.3bt (до 60Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 200 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s10p8g-120.html
+            </link>
+            <title>
+                AN-S10P8G-120
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 13:57:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s10p8g-120.jpg" /> </figure>
+ </header>
+ <p><span></span>Общее количество портов: 10</p>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 7 портов (100Мбит/с, RJ45, PoE+), 1 порт (100Мбит/с, RJ45, Hi PoE), 2 порта (1000Мбит/с, RJ45)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), IEEE 802.3bt (до 60Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 120 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s10p8-120.html
+            </link>
+            <title>
+                AN-S10P8-120
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 13:13:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s10p8-120.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 10</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 2 порта (100Мбит/с, RJ45), 7 портов (100Мбит/с, RJ45, PoE+), 1 порт (100Мбит/с, RJ45, Hi PoE)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), IEEE 802.3bt (до 60Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 120 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s26p24.html
+            </link>
+            <title>
+                AN-S26P24
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 13:11:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s26p24.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 27</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 24 порта (100Мбит/с, RJ45, PoE+), 2 порта (1000Мбит/с, RJ45), 1 слот SFP (1000Мбит/с)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 300 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s18p16.html
+            </link>
+            <title>
+                AN-S18P16
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 13:09:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s18p16.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 19</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 16 портов (100Мбит/с, RJ45, PoE+), 2 порта (1000Мбит/с, RJ45), 1 слот SFP (1000Мбит/с)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 300 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s10p8f.html
+            </link>
+            <title>
+                AN-S10P8F
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 13:06:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s10p8f.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 10</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 8 портов (100Мбит/с, RJ45, PoE+), 2 порта (1000Мбит/с, RJ45)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 120 Вт</div>
+ </div>]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <link>
+                https://www.tmk-pilot.ru/an-s10p.html
+            </link>
+            <title>
+                AN-S10P
+            </title>
+            <pubDate>
+                Tue, 10 Oct 2023 13:04:00 +0300
+            </pubDate>
+            <turbo:content>
+                <![CDATA[ <header>
+     <figure> <img src="https://www.tmk-pilot.ru/assets/2023/10-23/10-10-23/an-s10p.jpg" /> </figure>
+ </header>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Общее количество портов: 10</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Порты: 2 порта (100Мбит/с, RJ45), 8 портов (100Мбит/с, RJ45, PoE+)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Стандарт PoE (Power over Ethernet): IEEE 802.3af (15,4Вт на канал), IEEE 802.3at (до 30Вт на канал), режим антизависания PoE устройств (WatchDog)</div>
+ </div>
+ <div class="details-row details-briefproperties">
+     <div class="details-param-name">Бюджет PoE: 120 Вт</div>
+ </div>]]>
             </turbo:content>
         </item>
     </channel>
