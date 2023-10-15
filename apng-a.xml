@@ -13,7 +13,7 @@
         <language>
             ru
         </language>
-        <item turbo="true">
+        <item>
             <link>
                 https://www.tmk-pilot.ru/av-m32pk.html
             </link>
@@ -155,7 +155,7 @@
  <p>Пассивный приемопередатчик AHD/TVI/CVI по витой паре UTP Cat 5/5E/6. (2 шт. в комплекте)</p>]]>
             </turbo:content>
         </item>
-        <item turbo="true">
+        <item turbo="false">
             <link>
                 https://www.tmk-pilot.ru/av-t3tc.html
             </link>
