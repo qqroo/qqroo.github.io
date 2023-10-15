@@ -539,6 +539,7 @@
      <div class="details-param-name">Джойстик: 3D управление: вверх, вниз, влево, вправо, зум</div>
  </div>]]>
             </turbo:content>
+            <yandex:related type="infinity"></yandex:related>
         </item>
         <item turbo="true">
             <link>
@@ -600,6 +601,14 @@
           <link url="http://www.example.com/page.html">example</link>
         <link url="http://www.example.com/page2.html">example</link> <link url="http://www.example.com/page.html">example</link>
         <link url="http://www.example.com/page2.html">example</link>
+          <link url="http://www.example.com/page.html">example</link>
+        <link url="http://www.example.com/page2.html">example</link>  <link url="http://www.example.com/page2.html">example</link>
+          <link url="http://www.example.com/page.html">example</link>
+        <link url="http://www.example.com/page2.html">example</link>  <link url="http://www.example.com/page2.html">example</link>
+          <link url="http://www.example.com/page.html">example</link>
+        <link url="http://www.example.com/page2.html">example</link>  <link url="http://www.example.com/page2.html">example</link>
+          <link url="http://www.example.com/page.html">example</link>
+        <link url="http://www.example.com/page2.html">example</link>  <link url="http://www.example.com/page2.html">example</link>
           <link url="http://www.example.com/page.html">example</link>
         <link url="http://www.example.com/page2.html">example</link>
     </yandex:related>
