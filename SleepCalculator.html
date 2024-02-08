@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Калькулятор сна</title>
+    <style>
+        body {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background-color: #ededed;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .place {
+            text-align: center;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            font-size: 28px;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        select {
+            font-size: 16px;
+            margin: 5px;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        #result1,
+        #result2 {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="place">
+        <h2>🛏️ Калькулятор сна</h2>
+        <form id="sleepForm">
+            <input type="hidden" name="sleep_form" value="1">
+
+            <div class="title">Если вы хотите лечь спать <div style="display: inline-block; white-space: nowrap;">в
+                    <select id="sleepHour" name="sleep_hour" onchange="calculateSleepTime('sleep')">
+                    </select>
+                    :
+                    <select id="sleepMin" name="sleep_min" onchange="calculateSleepTime('sleep')">
+                    </select>
+                    ,
+                </div> то нужно проснуться в:
+            </div>
+
+            <div id="result2" class="place"></div>
+
+            <div class="title">Если вы хотите проснуться <div style="display: inline-block; white-space: nowrap;">в
+                    <select id="wakeHour" name="wake_hour" onchange="calculateSleepTime('wake')">
+                    </select>
+                    :
+                    <select id="wakeMin" name="wake_min" onchange="calculateSleepTime('wake')">
+                    </select>
+                    ,
+                </div> то нужно лечь спать в:
+            </div>
+
+            <div id="result1" class="place"></div>
+
+        </form>
+    </div>
+
+
+    <script>
+        function createOptions(selectElement, start, end) {
+            for (let i = start; i <= end; i++) {
+                const option = document.createElement('option');
+                option.value = i.toString().padStart(2, '0');
+                option.text = option.value;
+                selectElement.add(option);
+            }
+        }
+
+        ['wakeHour', 'wakeMin', 'sleepHour', 'sleepMin'].forEach(id => createOptions(document.getElementById(id), 0, id.includes('Hour') ? 23 : 59));
+
+        function setCurrentTime() {
+            const setCurrentValue = (id, value) => document.getElementById(id).value = value.toString().padStart(2, '0');
+            const currentDate = new Date();
+
+            const roundedMinutes = Math.ceil(currentDate.getMinutes() / 5) * 5;
+            currentDate.setMinutes(roundedMinutes);
+
+            setCurrentValue('sleepHour', currentDate.getHours());
+            setCurrentValue('sleepMin', currentDate.getMinutes());
+            setCurrentValue('wakeHour', 9);
+            setCurrentValue('wakeMin', 0);
+        }
+
+        function calculateSleepTime(type) {
+            const getElementValue = id => parseInt(document.getElementById(id).value, 10);
+            const resultElement = document.getElementById(type === 'wake' ? 'result1' : 'result2');
+            resultElement.innerHTML = '';
+
+            const timeDifferences = type === 'wake' ? [[-9, -15], [-7, -45], [-6, -15], [-4, -45], [-3, -15], [-1, -45]] : [[+1, +45], [+3, +15], [+4, +45], [+6, +15], [+7, +45], [+9, +15]];
+            const baseHour = getElementValue(type === 'wake' ? 'wakeHour' : 'sleepHour');
+            const baseMin = getElementValue(type === 'wake' ? 'wakeMin' : 'sleepMin');
+
+            resultElement.innerHTML = `
+                <div class="row-result" style="display: inline-block;">
+                    ${formatTimesForCalculations(baseHour, baseMin, timeDifferences)}
+                </div>
+            `;
+        }
+
+        function formatTimesForCalculations(baseHour, baseMin, timeDifferences) {
+            return timeDifferences.map(([hourDiff, minDiff]) => {
+                const calculatedHour = baseHour + hourDiff;
+                const calculatedMin = baseMin + minDiff;
+                const resultTime = new Date(0, 0, 0, calculatedHour, calculatedMin);
+                return `<span style="margin: 25px;">${formatTime(resultTime)}</span>`;
+            }).join('\t');
+        }
+
+        // Функция для форматирования времени
+        function formatTime(date) {
+            const padStart2 = num => num.toString().padStart(2, '0');
+            return `${padStart2(date.getHours())}:${padStart2(date.getMinutes())}`;
+        }
+
+        setCurrentTime();
+        calculateSleepTime('wake');
+        calculateSleepTime('sleep');
+    </script>
+
+
+</body>
+
+</html>
